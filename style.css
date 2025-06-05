@@ -80,7 +80,7 @@ html {
 .presentation .left .t2 {
     color: var(--text-secundary-color);
     font-weight: 800;
-    font-size: 7rem;
+    font-size: 5rem;
 }
 
 /* .presentation .right svg {
@@ -105,7 +105,7 @@ html {
 }
 
 #about{
-    scroll-margin-top: 15rem;
+    scroll-margin-top: 11rem;
   }
 
 .about .subtitle {
@@ -215,6 +215,9 @@ html {
     transition: 0.3s;
 }
 
+.projects .content .card .btn-card{
+    text-decoration: none;
+}
 
 
 .projects .content .card .img img{
